@@ -9,7 +9,6 @@ y_sort_enabled = true
 
 [node name="CanvasLayer" type="CanvasLayer" parent="."]
 layer = -30
-follow_viewport_enabled = true
 
 [node name="ColorRect" type="ColorRect" parent="CanvasLayer"]
 offset_right = 1968.0
